@@ -1,6 +1,12 @@
-## Hi, <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/wave.gif" width="25px" /> I'm Siddhant...
+## Hi, <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/wave.gif" width="25px" /> I'm Siddhant...
 
 I like to code, solve problems and always looking out for new and interesting opportunities.
+
+<p>
+  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" style="color:#0A66C2;" />
+  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/gmail.svg" />
+  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/twitter.svg" />
+</p>
 
 <!-- <p>
   <img src="https://img.shields.io/badge/-Siddhant_Tandon-blue?style=plastic&logo=Linkedin"/>
@@ -10,20 +16,29 @@ I like to code, solve problems and always looking out for new and interesting op
 linkedin, ymail & twitter
 
 ## I'm currently working 👨🏽‍💻 on...
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=restoros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=eights-fours-ones&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<p>
+  <a href="https://github.com/cmxiv/eights-fours-ones">
+    <img
+         src="https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=eights-fours-ones&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/cmxiv/restoros"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=restoros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+</p>
 
 ## On the backburner...
 
-![ngjest](https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=ngjest&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/cmxiv/ngjest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cmxiv&repo=ngjest&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
 
 ## My GitHub highlights...
 
-![Siddhant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmxiv&count_private=true&langs_count=8&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmxiv&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmxiv&count_private=true&langs_count=8&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=cmxiv&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>
 
 <!--
 **cmxiv/cmxiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
