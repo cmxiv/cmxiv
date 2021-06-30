@@ -3,9 +3,15 @@
 I like to code, solve problems and always looking out for new and interesting opportunities.
 
 <p>
-  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" />
-  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/gmail.svg" />
-  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/twitter.svg" />
+  <a href="https://www.linkedin.com/in/siddhanttandon/">
+    <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" width="25px" />
+  </a>
+  <a href="mailto:siddhanttandon@ymail.com">
+    <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/gmail.svg" width="25px" />
+  </a>
+  <a href="https://twitter.com/cmxiv914">
+    <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/twitter.svg" width="25px" />
+  </a>
 </p>
 
 <!-- <p>
