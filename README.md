@@ -3,7 +3,7 @@
 I like to code, solve problems and always looking out for new and interesting opportunities.
 
 <p>
-  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" style="color:#0A66C2;" />
+  <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" />
   <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/gmail.svg" />
   <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/twitter.svg" />
 </p>
