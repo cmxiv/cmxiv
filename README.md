@@ -1,9 +1,9 @@
 ## Hi, <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/wave.gif" width="25px" /> I'm Siddhant...
 
-I like to code, solve problems and always looking out for new and interesting opportunities.
+I like to code, solve problems and I am always looking out for new and interesting opportunities.
 
 <p>
-  Reach out to me via &nbsp;
+  Reach out to me on &nbsp;
   <a href="https://www.linkedin.com/in/siddhanttandon/">
     <img src="https://raw.githubusercontent.com/cmxiv/cmxiv/main/img/linkedin.svg" width="20px" />
   </a>
