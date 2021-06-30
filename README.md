@@ -7,8 +7,6 @@ I like to code, solve problems and always looking out for new and interesting op
   <img src="https://img.shields.io/badge/-Siddhant_Tandon-blue?style=plastic&logo=Twitter&logoColor=white"/>
 </p> -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
 linkedin, ymail & twitter
 
 ## I'm currently working 👨🏽‍💻 on...
